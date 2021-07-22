@@ -9,13 +9,11 @@ import java.util.List;
  * @mail ricardo.job@ifpb.edu.br
  * @since 29/06/2021, 10:44:37
  */
-// wmc - média 3/2 - 1.5
 public class Compra {
     private List<ItemDeVenda> itens = new ArrayList<>();
     private LocalDate criadaEm = LocalDate.now();
     private String cupomDesconto;
     private Pagamento pagamento;
-//    private Entrega entrega;
 
     public Compra(int peso) {
         this.peso = peso;
