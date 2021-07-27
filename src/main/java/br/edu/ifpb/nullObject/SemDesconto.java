@@ -1,6 +1,6 @@
 package br.edu.ifpb.nullObject;
 
-import br.edu.ifpb.venda.Desconto;
+import br.edu.ifpb.domain.Desconto;
 
 public class SemDesconto implements Desconto {
     @Override

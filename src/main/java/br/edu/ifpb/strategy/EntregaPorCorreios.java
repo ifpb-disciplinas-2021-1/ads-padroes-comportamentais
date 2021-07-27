@@ -1,7 +1,7 @@
 package br.edu.ifpb.strategy;
 
-import br.edu.ifpb.venda.Compra;
-import br.edu.ifpb.venda.Entrega;
+import br.edu.ifpb.domain.Compra;
+import br.edu.ifpb.domain.Entrega;
 
 /**
  * @author Ricardo Job

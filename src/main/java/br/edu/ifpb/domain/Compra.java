@@ -1,6 +1,4 @@
-package br.edu.ifpb.venda;
-
-import br.edu.ifpb.nullObject.SemDesconto;
+package br.edu.ifpb.domain;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package br.edu.ifpb.venda;
+package br.edu.ifpb.domain;
 
 public interface Desconto {
 

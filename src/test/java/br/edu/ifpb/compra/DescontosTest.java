@@ -1,5 +1,8 @@
-package br.edu.ifpb.venda;
+package br.edu.ifpb.compra;
 
+import br.edu.ifpb.domain.Compra;
+import br.edu.ifpb.domain.Desconto;
+import br.edu.ifpb.domain.Produto;
 import br.edu.ifpb.nullObject.DescontoAbsoluto;
 import br.edu.ifpb.nullObject.DescontoPercentual;
 import org.junit.Test;
