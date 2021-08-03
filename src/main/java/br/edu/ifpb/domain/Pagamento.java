@@ -6,5 +6,13 @@ package br.edu.ifpb.domain;
  * @since 06/07/2021, 11:01:16
  */
 public interface Pagamento {
-    public void valor();
+    public String pagar(double valor);
+//    class SemPagamento implements Pagamento{
+//
+//        @Override
+//        public String pagar(double valor) {
+//            return "";
+//        }
+//        
+//    }
 }
